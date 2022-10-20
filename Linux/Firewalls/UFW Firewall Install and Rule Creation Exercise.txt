@@ -1,0 +1,7 @@
+Firewall Rule Set Up (UFW-Linux)
+
+ Download and Install UFW 
+ Enable and check UFW Status 
+ Create Default Deny all incoming/allow outgoing rules, check to confirm
+Create a rule to SSH between specific IP using TCP
+ Create Rules for http/https access, check/view rule list
